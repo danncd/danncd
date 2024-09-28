@@ -1,12 +1,6 @@
 # ![](https://github.com/danncd/danncd/blob/main/book.gif) About Me
 ```cpp
-name = "Danny";
-age = 20;
-degree = "Computer Science";
-college = "Queens College";
+Hello!
 ```
-## Technologies I have used
+## Technologies I have worked with
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css&perline=10)](https://skillicons.dev)
-
-## Technologies I am currently using
-[![My Skills](https://skillicons.dev/icons?i=java,cpp&perline=10)](https://skillicons.dev)
