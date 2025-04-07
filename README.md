@@ -2,5 +2,5 @@
 ```cpp
 Hi, I'm Danny.
 ```
-## I'm proficient in
+## Tools
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,js&perline=10)](https://skillicons.dev)
