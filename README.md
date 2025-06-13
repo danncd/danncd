@@ -1,2 +1,2 @@
-# ![](https://github.com/danncd/danncd/blob/main/book.gif) Tools
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,tailwind,js&perline=10)](https://skillicons.dev)
+Hello!
+* <b>Languages</b>: C/C++, Java, JavaScript, HTML, CSS, Python
